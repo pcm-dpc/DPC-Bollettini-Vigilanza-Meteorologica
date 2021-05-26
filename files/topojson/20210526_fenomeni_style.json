@@ -1,0 +1,107 @@
+{
+	"style_properties": [{
+		"propertyKey": "id_fenomeno",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": 1,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/1.png)"
+					},
+					{
+						"key": 2,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/2.png)"
+					},
+					{
+						"key": 3,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/3.png)"
+					},
+					{
+						"key": 4,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/4.png)"
+					},
+					{
+						"key": 5,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/5.png)"
+					},
+					{
+						"key": 6,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/6.png)"
+					},
+					{
+						"key": 7,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/7.png)"
+					},
+					{
+						"key": 60,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/60.png)"
+					},
+					{
+						"key": 61,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/61.png)"
+					},
+					{
+						"key": 62,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/62.png)"
+					},
+					{
+						"key": 63,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/63.png)"
+					},
+					{
+						"key": 10,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/10.png)"
+					},
+					{
+						"key": 11,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/11.png)"
+					},
+					{
+						"key": 12,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/12.png)"
+					},
+					{
+						"key": 13,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/13.png)"
+					},
+					{
+						"key": 40,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/40.png)"
+					},
+					{
+						"key": 41,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/41.png)"
+					},
+					{
+						"key": 42,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/42.png)"
+					},
+					{
+						"key": 50,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/50.png)"
+					},
+					{
+						"key": 51,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/51.png)"
+					},
+					{
+						"key": 20,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/20.png)"
+					},
+					{
+						"key": 21,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/21.png)"
+					},
+					{
+						"key": 30,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/30.png)"
+					},
+					{
+						"key": 31,
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/bollettini-vigilanza-dev/master/BV/iconFenomeni/31.png)"
+					}
+				]
+			}
+		]
+	}]
+}
