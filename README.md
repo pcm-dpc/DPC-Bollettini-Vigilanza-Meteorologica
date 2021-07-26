@@ -26,7 +26,7 @@ Ogni giorno, di norma, entro le ore 15:00
 
 
 ## Normativa di riferimento
-[Direttiva 27 febbraio 2004: indirizzi operativi per la gestione del sistema di allertamento nazionale per il rischio idrogeologico e idraulico](http://www.protezionecivile.it/amministrazione-trasparente/provvedimenti/dettaglio/-/asset_publisher/default/content/direttiva-27-febbraio-2004-indirizzi-operativi-per-la-gestione-del-sistema-di-allertamento-nazionale-per-il-rischio-idrogeologico-e-idraulico)
+[Direttiva 27 febbraio 2004: indirizzi operativi per la gestione del sistema di allertamento nazionale per il rischio idrogeologico e idraulico](https://www.protezionecivile.gov.it/it/normativa/direttiva-27-febbraio-2004--indirizzi-operativi-per-la-gestione-del-sistema-di-allertamento-nazionale-per-il-rischio-idrogeologico-e-idraulico)
 
 ## Licenza
 
