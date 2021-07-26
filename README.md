@@ -24,8 +24,6 @@ Ogni giorno, di norma, entro le ore 15:00
 
 ## Formato dei dati
 
-## Collegamenti utili
-[Mappa delle zone di vigilanza](http://www.protezionecivile.gov.it/attivita-rischi/schede-tecniche/dettaglio/-/asset_publisher/default/content/zone-di-vigilanza)
 
 ## Normativa di riferimento
 [Direttiva 27 febbraio 2004: indirizzi operativi per la gestione del sistema di allertamento nazionale per il rischio idrogeologico e idraulico](http://www.protezionecivile.it/amministrazione-trasparente/provvedimenti/dettaglio/-/asset_publisher/default/content/direttiva-27-febbraio-2004-indirizzi-operativi-per-la-gestione-del-sistema-di-allertamento-nazionale-per-il-rischio-idrogeologico-e-idraulico)
