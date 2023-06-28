@@ -1,0 +1,62 @@
+{
+	"style_properties": [{
+		"propertyKey": "id_classificazione",
+		"properties": [{
+				"property": "color",
+				"values": [{
+					"key": "*",
+					"value": "black"
+				}]
+			},
+			{
+				"property": "weight",
+				"values": [{
+					"key": "*",
+					"value": "2"
+				}]
+			},
+			{
+				"property": "opacity",
+				"values": [{
+					"key": "*",
+					"value": ".6"
+				}]
+			},
+			{
+				"property": "fillOpacity",
+				"values": [{
+					"key": "*",
+					"value": ".6"
+				}]
+			},
+			{
+				"property": "fillColor",
+				"values": [{
+						"key": 1,
+						"value": "#FFFFFF"
+					},
+					{
+						"key": 2,
+						"value": "#C3FFFE"
+					},
+					{
+						"key": 3,
+						"value": "#50FFFF"
+					},
+					{
+						"key": 4,
+						"value": "#508BFF"
+					},
+					{
+						"key": 5,
+						"value": "#A040FF"
+					}
+				]
+			},
+			{
+				"property": "fill",
+				"values": []
+			}
+		]
+	}]
+}
